@@ -1,6 +1,8 @@
 ape_ruby is ruby port of APE. APE(Actionscript Physics Engine) is a free 
 AS3 open source 2D physics engine, released under the MIT License. 
 
+  License link : http://filepang.mit-license.org/
+
 ape_ruby supports all features of original Actionsciprt version, and 
 slightly modified for support serveral rendering methods. It is released 
 under MIT License. 
